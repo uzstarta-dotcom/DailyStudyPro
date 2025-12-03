@@ -1,2 +1,6 @@
 aiogram==3.10.0
-apscheduler==3.10.4
+aiogram==3.22.0
+python-dotenv
+pytz
+apscheduler
+flask

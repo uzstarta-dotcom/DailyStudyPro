@@ -3,3 +3,4 @@ python-dotenv
 pytz
 APScheduler
 flask
+pydantic-core==2.18.2
